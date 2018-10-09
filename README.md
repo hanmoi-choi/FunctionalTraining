@@ -31,10 +31,10 @@ Have fun.
 
 ## Recommended order
 
-- ComposingExercises
-- RecursionExercises
-- OptionalExercises
-- FoldingExercises
+- ~~ComposingExercises~~
+- ~~RecursionExercises~~
+- ~~OptionalExercises~~
+- ~~FoldingExercises~~
 - Box
 - ValidationExercises
 - ExpressionProblemExercises
